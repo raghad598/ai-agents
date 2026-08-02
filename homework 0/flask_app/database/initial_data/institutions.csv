@@ -1,4 +1,4 @@
 "inst_id","type","name","department","address","city","state","zip"
-"1","Academia","Michigan State University","Computer Science",NULL,"East Lansing","Michigan",NULL
-"2","Government","National Institutes of Health",NULL,NULL,"Bethesda","Maryland",NULL
-"3","Industry","Standard and Poor's Financial Services","Ratings",NULL,"New York City","New York",NULL
+"1","Academia","Massachusetts Institute of Technology","MIT Media Lab, Personal Robots Group",NULL,"Cambridge","Massachusetts",NULL
+"2","Academia","Massachusetts Institute of Technology","MIT Emerging Talent",NULL,"Cambridge","Massachusetts",NULL
+"3","Academia","Arafat Secondary School for Gifted",NULL,NULL,"Gaza","Palestine",NULL
