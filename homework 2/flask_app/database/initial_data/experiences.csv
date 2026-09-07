@@ -1,0 +1,9 @@
+"experience_id","position_id","name","description","hyperlink","start_date","end_date"
+"1","1","Multimodal Interaction Pipeline","Designed digital automation pipelines for interactive storybook experiences with children.",NULL,"2024-12-01",NULL
+"2","1","Illustrated Content Extraction","Engineered automated systems for extracting and segmenting illustrated elements from digital storybooks.",NULL,"2025-01-01",NULL
+"3","1","Emotional Learning Assessment","Supervised development and validation of social-emotional learning questionnaires for children.",NULL,"2025-01-01",NULL
+"4","2","Data Science Project Work","Applied data cleaning, exploratory data analysis, and visualization to real-world datasets.",NULL,"2024-11-01",NULL
+"5","2","Data Science and Machine Learning","Completed MIT IDSS course on data preprocessing, supervised and unsupervised learning, and model evaluation.",NULL,"2025-01-01",NULL
+"6","3","6.00.1x Introduction to Computer Science","Completed MITx course on Python programming and algorithmic thinking.",NULL,"2024-10-01",NULL
+"7","3","6.00.2x Introduction to Computational Thinking","Completed MITx course on computational thinking and data science fundamentals.",NULL,"2025-01-01",NULL
+"8","3","Google Data Analytics Certificates","Completed multi-course specialization on data foundations and preparing data for exploration.",NULL,"2024-01-01",NULL
