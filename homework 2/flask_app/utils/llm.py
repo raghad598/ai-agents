@@ -188,13 +188,14 @@ def execute_semantic_search(db, output):
     """
     try:
         table, query_text = output.strip().split('|', 1)
-        return str(db.semanticSearch(table.strip(), query_text.strip()))
+        results = db.semanticSearch(table.strip(), query_text.strip())
+        for row in results:
+            label = row.get('name') or row.get('title')
+            print(f"  match: {label} (similarity {row['similarity']})")
+        return str(results)
     except Exception as error:
         print(f"Semantic search failed: {error}")
         return "Sorry, that question couldn't be answered."
-    if role == "Orchestrator":
-       return run_orchestrator_plan(db, message, output)
-    return output   # Content Expert -- output is already the final answer
 
 
 def execute_read_query(db, sql):

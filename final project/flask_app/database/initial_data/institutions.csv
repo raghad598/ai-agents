@@ -1,0 +1,4 @@
+"inst_id","type","name","department","address","city","state","zip"
+"1","Academia","Massachusetts Institute of Technology","MIT Media Lab, Personal Robots Group",NULL,"Cambridge","Massachusetts",NULL
+"2","Academia","Massachusetts Institute of Technology","MIT Emerging Talent",NULL,"Cambridge","Massachusetts",NULL
+"3","Academia","Arafat Secondary School for Gifted",NULL,NULL,"Gaza","Palestine",NULL
